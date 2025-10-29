@@ -1,4 +1,4 @@
-import { Target, Eye, Award, Users } from "lucide-react";
+import { Apple, Eye, Award, Users } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 const About = () => {
   const values = [
     {
-      icon: Target,
+      icon: Apple,
       title: "Mission",
       description: "To empower businesses through innovative technology solutions that drive growth and transformation."
     },
