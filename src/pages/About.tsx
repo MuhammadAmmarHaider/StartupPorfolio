@@ -38,22 +38,18 @@ const About = () => {
     {
       name: "Arshad Ali",
       role: "CEO & Founder",
-      image: "https://drive.google.com/drive/folders/1PFn2sObO6bMennpGmZtB9pB50l9cNLE5?usp=sharing"
     },
     {
-      name: "Michael Chen",
-      role: "CTO",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+      name: "Ahmad Hassan Shahzad",
+      role: "Co-Founder",
     },
     {
-      name: "Emily Rodriguez",
+      name: "Khurran Shahzad",
       role: "Head of Design",
-      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop"
     },
     {
-      name: "David Park",
+      name: "Ahmad Mukhtar",
       role: "Lead Developer",
-      image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
     }
   ];
 
