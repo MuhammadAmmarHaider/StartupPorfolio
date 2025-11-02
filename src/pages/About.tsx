@@ -8,37 +8,37 @@ const About = () => {
     {
       icon: Apple,
       title: "Mission",
-      description: "To empower businesses through innovative technology solutions that drive growth and transformation."
+      description: "To build practical IT products and services that help organizations move faster, work smarter, and deliver measurable results."
     },
     {
       icon: Eye,
       title: "Vision",
-      description: "To be the leading technology partner for businesses navigating the digital landscape."
+      description: "To be the most treusted and leading technology partner for businesses seeking reliable, scalable, and human-centred digital solutions."
     },
     {
       icon: Award,
       title: "Excellence",
-      description: "We maintain the highest standards in every project, delivering quality that exceeds expectations."
+      description: "We deliver engineering excellence through clean code, thoughtful design, and measurable outcomes. We believe in delivering quality that exceeds expectations."
     },
     {
       icon: Users,
       title: "Collaboration",
-      description: "We work closely with our clients, fostering partnerships built on trust and transparency."
+      description: "We work closely with our clients as collaborators combining domina insight, technical craft, and rapid feedback loops to deliver real value."
     }
   ];
 
   const stats = [
-    { number: "500+", label: "Projects Completed" },
-    { number: "200+", label: "Happy Clients" },
-    { number: "50+", label: "Team Members" },
+    { number: "50+", label: "Projects Completed" },
+    { number: "20+", label: "Successful  Clients" },
+    { number: "60+", label: "Team Members" },
     { number: "15+", label: "Years Experience" }
   ];
 
   const team = [
     {
-      name: "Sarah Johnson",
+      name: "Arshad Ali",
       role: "CEO & Founder",
-      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop"
+      image: "https://drive.google.com/drive/folders/1PFn2sObO6bMennpGmZtB9pB50l9cNLE5?usp=sharing"
     },
     {
       name: "Michael Chen",
