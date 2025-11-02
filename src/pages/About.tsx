@@ -136,13 +136,13 @@ const About = () => {
               <h2 className="text-3xl font-bold mb-6">Our Story</h2>
               <div className="space-y-4 text-muted-foreground">
                 <p>
-                  Founded in 2009, TechVision started with a simple mission: to help businesses harness the power of technology to achieve their goals. What began as a small team of developers has grown into a full-service technology consultancy with expertise across multiple domains.
+                 Founded in 2025, TechVision was built on over a decade of experience in academia, consulting, and technology advisory roles. Long before our official launch, our team had been shaping ideas, mentoring innovators, and delivering technology-driven solutions that empowered individuals and organizations alike.
                 </p>
                 <p>
-                  Over the years, we've had the privilege of working with some of the world's most innovative companies, delivering solutions that have transformed their operations and driven measurable results. Our commitment to excellence and client satisfaction has been the cornerstone of our success.
+                What began as a shared passion for innovation has evolved into a dedicated company focused on providing high-quality IT products, projects, and services. We bring together the analytical mindset of educators, the strategic insight of consultants, and the technical expertise of industry professionals.
                 </p>
                 <p>
-                  Today, we continue to push the boundaries of what's possible with technology, embracing new innovations while staying true to our core values of quality, integrity, and collaboration.
+                 At TechVision, we believe that technology is more than just a tool; it’s an enabler of growth, creativity, and transformation. Our journey is driven by a commitment to excellence, collaboration, and integrity as we help our clients navigate the ever-evolving digital landscape.
                 </p>
               </div>
             </Card>
