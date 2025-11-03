@@ -2,6 +2,7 @@ import { Apple, Eye, Award, Users } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import Arshad from "../assets/images/Arshad-pic1.jpg";
 
 const About = () => {
   const values = [
@@ -38,6 +39,7 @@ const About = () => {
     {
       name: "Arshad Ali",
       role: "CEO & Founder",
+      image:Arshad
     },
     {
       name: "Ahmad Hassan Shahzad",
