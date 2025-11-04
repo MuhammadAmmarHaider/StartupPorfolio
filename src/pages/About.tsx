@@ -2,7 +2,7 @@ import { Apple, Eye, Award, Users } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import Arshad from "../assets/images/Arshad-pic1.jpg";
+import Arshad from "../assets/images/Arshad-pic2.jpg";
 import Khurram from "../assets/images/K-Shahzad1.jpg";
 
 const About = () => {
@@ -49,7 +49,6 @@ const About = () => {
     {
       name: "Khurran Shahzad",
       role: "Head of Design",
-      Image: Khurram
     },
     {
       name: "Ahmad Mukhtar",
@@ -146,7 +145,7 @@ const About = () => {
                 What began as a shared passion for innovation has evolved into a dedicated company focused on providing high-quality IT products, projects, and services. We bring together the analytical mindset of educators, the strategic insight of consultants, and the technical expertise of industry professionals.
                 </p>
                 <p>
-                 At TechVision, we believe that technology is more than just a tool; it’s an enabler of growth, creativity, and transformation. Our journey is driven by a commitment to excellence, collaboration, and integrity as we help our clients navigate the ever-evolving digital landscape.
+                 At Paxelus Tech, we believe that technology is more than just a tool; it’s an enabler of growth, creativity, and transformation. Our journey is driven by a commitment to excellence, collaboration, and integrity as we help our clients navigate the ever-evolving digital landscape.
                 </p>
               </div>
             </Card>

@@ -22,7 +22,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <Link to="/" className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-            TechVision
+            Paxelus Tech
           </Link>
 
           {/* Desktop Navigation */}
@@ -73,7 +73,7 @@ const Navbar = () => {
               </Link>
             ))}
             <div className="px-4 pt-4">
-              <Button className="w-full">Get Started</Button>
+              <Button className="w-full"></Button>
             </div>
           </div>
         )}
