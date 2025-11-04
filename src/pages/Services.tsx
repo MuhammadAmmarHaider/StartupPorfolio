@@ -7,13 +7,29 @@ const Services = () => {
   const services = [
     {
       icon: Code2,
-      title: "Web Development",
-      description: "Full-stack web development using React, Vue, Angular, and modern frameworks.",
+      title: "Artificial Intelligenc",
+      description: "AI poweded intelligent solution, Gen AI, Computer Vision, NLP.",
       features: [
-        "Responsive Design",
+        "Intelligent Web Apps",
+        "ERP solution",
+        "Predictive Analytics",
+        "Custom AI Models",
+        "AI product Development",
+        "AI solution Development",
+        "AI strategy Development"
+      ]
+    },
+    {
+      icon: Code2,
+      title: "Web Development",
+      description: "Full-stack web development, React, Vue, Angular, and modern frameworks.",
+      features: [
+        "Responsive UI/UX Design",
         "Progressive Web Apps",
         "E-commerce Solutions",
-        "Custom CMS Development"
+        "Custom CMS Development",
+        "Learning Management Systems",
+        "AI feature integration into digital platforms"
       ]
     },
     {
@@ -25,17 +41,6 @@ const Services = () => {
         "Native iOS (Swift)",
         "Native Android (Kotlin)",
         "App Store Optimization"
-      ]
-    },
-    {
-      icon: Brain,
-      title: "AI & Machine Learning",
-      description: "Intelligent solutions powered by artificial intelligence and machine learning.",
-      features: [
-        "Natural Language Processing",
-        "Computer Vision",
-        "Predictive Analytics",
-        "Custom AI Models"
       ]
     },
     {
@@ -61,17 +66,6 @@ const Services = () => {
       ]
     },
     {
-      icon: GitBranch,
-      title: "DevOps",
-      description: "Streamlined development workflows and continuous integration.",
-      features: [
-        "CI/CD Pipelines",
-        "Docker & Kubernetes",
-        "Infrastructure as Code",
-        "Automated Testing"
-      ]
-    },
-    {
       icon: Database,
       title: "Data Analytics",
       description: "Transform raw data into actionable business insights.",
@@ -80,17 +74,6 @@ const Services = () => {
         "Data Warehousing",
         "Real-time Analytics",
         "Custom Dashboards"
-      ]
-    },
-    {
-      icon: Cpu,
-      title: "IoT Solutions",
-      description: "Connect and manage your IoT devices at scale.",
-      features: [
-        "Device Management",
-        "Real-time Monitoring",
-        "Edge Computing",
-        "Smart Home Integration"
       ]
     }
   ];
@@ -106,7 +89,7 @@ const Services = () => {
               Our Services
             </h1>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Comprehensive technology solutions designed to accelerate your digital transformation
+              Comprehensive technology solutions designed to accelerate your digital transformation by leveragig the power of AI
             </p>
           </div>
 
