@@ -3,6 +3,7 @@ import { Card } from "@/components/ui/card";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import Arshad from "../assets/images/Arshad-pic1.jpg";
+import Khurram from "../assets/images/K-Shahzad1.jpg";
 
 const About = () => {
   const values = [
@@ -48,6 +49,7 @@ const About = () => {
     {
       name: "Khurran Shahzad",
       role: "Head of Design",
+      Image: Khurram
     },
     {
       name: "Ahmad Mukhtar",
@@ -63,10 +65,10 @@ const About = () => {
         <div className="container mx-auto">
           <div className="text-center mb-16 animate-fade-in">
             <h1 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-primary bg-clip-text text-transparent">
-              About TechVision
+              About Paxelus Tech
             </h1>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              We're a team of passionate technologists dedicated to building solutions that make a difference
+              We're a team of passionate technologists dedicated to building peaceful, intelligent and connected digital solutions for a global future
             </p>
           </div>
 

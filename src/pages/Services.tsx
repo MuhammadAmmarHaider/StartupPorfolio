@@ -1,4 +1,4 @@
-import { Code2, Smartphone, Brain, Shield, Cloud, GitBranch, Database, Cpu } from "lucide-react";
+import { Code2, Smartphone, Shield, Cloud, Database } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -7,7 +7,7 @@ const Services = () => {
   const services = [
     {
       icon: Code2,
-      title: "Artificial Intelligenc",
+      title: "Artificial Intelligence",
       description: "AI poweded intelligent solution, Gen AI, Computer Vision, NLP.",
       features: [
         "Intelligent Web Apps",
