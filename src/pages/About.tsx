@@ -40,16 +40,17 @@ const About = () => {
     {
       name: "Arshad Ali",
       role: "CEO & Founder",
-      image:Arshad
+      image: "https://j0vssbutor.ufs.sh/f/CFjtoIbksUoKpO7KzPRrCdJR19450fHuKz2tSMqNjOni3IUo"
     },
     {
       name: "Ahmad Hassan Shahzad",
       role: "Co-Founder",
-      image:Khurram
+      image:"https://j0vssbutor.ufs.sh/f/CFjtoIbksUoKrn19q526pwlSfhRagd0mTeCq9PN5481VH7nY"
     },
     {
       name: "Khurran Shahzad",
       role: "Head of Design",
+      image: "https://j0vssbutor.ufs.sh/f/CFjtoIbksUoK82rJ7s1X5iRP2ztofQ9MTIqyUd7HZKw0LJxS"
     },
     {
       name: "Ahmad Mukhtar",

@@ -12,7 +12,7 @@ const Projects = () => {
       category: "Web Development",
       description: "Complete redesign and optimization of a major e-commerce platform, resulting in 40% increase in conversion rates.",
       tech: ["React", "Node.js", "MongoDB", "AWS"],
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop"
+      //image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop"
     },
     {
       title: "AI-Powered Analytics Dashboard",
