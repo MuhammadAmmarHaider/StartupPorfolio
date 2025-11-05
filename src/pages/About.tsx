@@ -45,6 +45,7 @@ const About = () => {
     {
       name: "Ahmad Hassan Shahzad",
       role: "Co-Founder",
+      image:Khurram
     },
     {
       name: "Khurran Shahzad",
