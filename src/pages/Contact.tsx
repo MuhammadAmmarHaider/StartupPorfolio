@@ -37,14 +37,14 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      value: "hello@Paxelus.com",
-      link: "mailto:hello@techvision.com"
+      value: "arshad.ali0708116@gmail.com",
+      link: "mailto:arshad.ali0708116@gmail.com"
     },
     {
       icon: Phone,
       title: "Phone",
-      value: "+92 (300) 123-4567",
-      link: "tel:+923001234567"
+      value: "+92 (345) 170-3658",
+      link: "tel:+923451703658"
     },
     {
       icon: MapPin,

@@ -7,23 +7,24 @@ import Footer from "@/components/Footer";
 const Projects = () => {
   const projects = [
     {
-      title: "E-Commerce Platform Redesign",
-      client: "Amazon",
-      category: "Web Development",
-      description: "Complete redesign and optimization of a major e-commerce platform, resulting in 40% increase in conversion rates.",
+      title: "Revolutionizing Candidate Screening With AI",
+      client: "Talina",
+      category: "Artificial Intelligence",
+      description: "Talina’s world isyour key to transforming the screening process with cutting-edge artificial intelligence. We’re not just a platform; we’re the catalyst for a new era in recruitment efficiency.",
       tech: ["React", "Node.js", "MongoDB", "AWS"],
-      //image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop"
+      image: "https://j0vssbutor.ufs.sh/f/CFjtoIbksUoK3gj9ZkBBjmg1Ed2JXtNZIGUKoH7TCryR04xb",
+      link: "https://talina.ai/"
     },
     {
-      title: "AI-Powered Analytics Dashboard",
-      client: "Google",
+      title: "Your superhuman tax and accounting advisor",
+      client: "Simpla",
       category: "AI & Machine Learning",
-      description: "Custom analytics dashboard with predictive modeling and real-time data visualization for enterprise clients.",
+      description: "Tax and Accounting Compliance Solutions which are 43x cheaper and 12x faster than traditional firms.",
       tech: ["Python", "TensorFlow", "React", "PostgreSQL"],
-      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop"
+      image: "https://www.simpla.ai/"
     },
     {
-      title: "Mobile Banking Application",
+      title: "OBE Based Learnng Management System",
       client: "Meta",
       category: "Mobile Development",
       description: "Secure and user-friendly mobile banking app with biometric authentication and real-time transactions.",
@@ -111,7 +112,7 @@ const Projects = () => {
                   </div>
 
                   <div className="flex gap-2">
-                    <Button size="sm" variant="outline" className="flex-1">
+                    <Button onClick={()=>{window.location.href=project?.link}} size="sm" variant="outline" className="flex-1">
                       <ExternalLink className="h-4 w-4 mr-2" />
                       View
                     </Button>

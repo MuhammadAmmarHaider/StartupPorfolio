@@ -53,7 +53,7 @@ const About = () => {
       image: "https://j0vssbutor.ufs.sh/f/CFjtoIbksUoK82rJ7s1X5iRP2ztofQ9MTIqyUd7HZKw0LJxS"
     },
     {
-      name: "Ahmad Mukhtar",
+      name: "Ali Mukhtar",
       role: "Lead Developer",
     }
   ];
