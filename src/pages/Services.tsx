@@ -22,7 +22,7 @@ const Services = () => {
     {
       icon: Code2,
       title: "Web Development",
-      description: "Full-stack web development, React, Vue, Angular, and modern frameworks.",
+      description: "Full-stack Mobile web development, React, Vue, Angular, and modern frameworks.",
       features: [
         "Responsive UI/UX Design",
         "Progressive Web Apps",
@@ -75,7 +75,7 @@ const Services = () => {
         "Real-time Analytics",
         "Custom Dashboards"
       ]
-    }
+    },
   ];
 
   return (

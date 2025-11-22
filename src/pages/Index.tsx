@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { ArrowRight, Code2, Smartphone, Brain, Shield, Cloud, GitBranch, Users, Lightbulb, Palette, Rocket, TestTube, LifeBuoy, DollarSign, UserPlus, Briefcase, CheckCircle2 } from "lucide-react";
+import { ArrowRight, Code2, Smartphone, Brain, Shield, Cloud, GitBranch, Users, Lightbulb, Palette, Rocket, TestTube, LifeBuoy, DollarSign, UserPlus, Briefcase, CheckCircle2, Database } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
@@ -12,38 +12,32 @@ const Index = () => {
   const services = [
     {
       icon: Code2,
-      title: "Web Development",
-      description: "Custom web applications built with modern frameworks and best practices.",
+      title: "Artificial Intelligence",
+      description: "AI poweded intelligent solution, Gen AI, Computer Vision, NLP."
     },
     {
       icon: Smartphone,
       title: "Mobile Development",
-      description: "Native and cross-platform mobile apps for iOS and Android.",
-    },
-    {
-      icon: Brain,
-      title: "AI & Machine Learning",
-      description: "Intelligent solutions powered by cutting-edge AI and ML technologies.",
+      description: "Native and cross-platform mobile applications for iOS and Android."
     },
     {
       icon: Shield,
       title: "Cybersecurity",
-      description: "Comprehensive security solutions to protect your digital assets.",
+      description: "Comprehensive security solutions to protect your digital infrastructure."
     },
     {
       icon: Cloud,
       title: "Cloud Solutions",
-      description: "Scalable cloud infrastructure and migration services.",
+      description: "Scalable cloud infrastructure and migration services."
     },
     {
-      icon: GitBranch,
-      title: "DevOps",
-      description: "Streamlined development workflows and CI/CD pipelines.",
+      icon: Database,
+      title: "Data Analytics",
+      description: "Transform raw data into actionable business insights."
     },
   ];
-
   const clients = [
-    "Google", "Microsoft", "Amazon", "Meta", "Apple", "Tesla", "Netflix", "Spotify"
+    "Talina", "Simpla", "Qunatbots", "NUC-LG", "Government Agencies", "Educational Institutes"
   ];
 
   const serviceDetails = {
@@ -93,7 +87,7 @@ const Index = () => {
               with Technology
             </h1>
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-              We deliver innovative technology solutions that drive growth and empower businesses to thrive in the digital era.
+              To be the leading IT-solutions partner delivering innovation, reliability and growth for enterprises, startups and governments.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" className="group">
@@ -116,7 +110,7 @@ const Index = () => {
           <div className="text-center mb-12 animate-fade-in-up">
             <h2 className="text-4xl font-bold mb-4">Our Services</h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
-              Comprehensive technology solutions tailored to your business needs
+              Comprehensive technology solutions designed to accelerate your digital transformation by leveragig the power of AI
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -178,11 +172,11 @@ const Index = () => {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               {[
                 { title: "Custom Software Development", icon: Code2 },
-                { title: "App Modernization", icon: Smartphone },
-                { title: "DevOps", icon: GitBranch },
+                { title: "AI based Solutions", icon: Code2 },
+                { title: "Cyber Security", icon: Shield },
                 { title: "MVP Development", icon: Rocket },
                 { title: "Data & Advanced Analytics", icon: Brain },
-                { title: "Robotic Process Automation", icon: Cloud },
+                { title: "Colud Solutions", icon: Cloud },
               ].map((service, index) => (
                 <Card
                   key={index}
@@ -326,7 +320,7 @@ const Index = () => {
         <div className="container mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold mb-4">
-              Why Choose <span className="text-accent">TechVision</span>?
+              Why Choose <span className="text-accent">Paxelus Tech</span>?
             </h2>
             <p className="text-white/80 max-w-2xl mx-auto">
               We move at startup speed—with enterprise discipline.

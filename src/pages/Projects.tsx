@@ -16,44 +16,47 @@ const Projects = () => {
       link: "https://talina.ai/"
     },
     {
-      title: "Your superhuman tax and accounting advisor",
+      title: "Superhuman tax and accounting advisor",
       client: "Simpla",
       category: "AI & Machine Learning",
       description: "Tax and Accounting Compliance Solutions which are 43x cheaper and 12x faster than traditional firms.",
       tech: ["Python", "TensorFlow", "React", "PostgreSQL"],
-      image: "https://www.simpla.ai/"
+      image: "https://j0vssbutor.ufs.sh/f/CFjtoIbksUoKRtQGlPVK4c0gX9Ofltq53BNUk8iyT1AswHe2",
+      link: "https://simpla.ai/"
     },
     {
-      title: "OBE Based Learnng Management System",
-      client: "Meta",
-      category: "Mobile Development",
-      description: "Secure and user-friendly mobile banking app with biometric authentication and real-time transactions.",
-      tech: ["React Native", "Node.js", "PostgreSQL", "AWS"],
-      image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&h=600&fit=crop"
-    },
-    {
-      title: "Cloud Infrastructure Migration",
-      client: "Microsoft",
-      category: "Cloud Solutions",
-      description: "Successfully migrated legacy systems to cloud infrastructure, reducing costs by 50% and improving performance.",
+      title: "Advanced Trading Bot Platform",
+      client: "QUANTBOTS",
+      category: "Advancdd AI & Qunatitatuve Strategies",
+      description: "Quantitative trading bot platform allowing trading firms and communities to deploy custom trading scripts.",
       tech: ["Azure", "Kubernetes", "Docker", "Terraform"],
-      image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=600&fit=crop"
+      image: "https://j0vssbutor.ufs.sh/f/CFjtoIbksUoKPC2ZJucrHsFnXkaYEj8NmyM7DoQeOIu5gx0Z",
+      link: "https://https://quantbots.org/"
     },
     {
-      title: "Cybersecurity Platform",
-      client: "Tesla",
-      category: "Cybersecurity",
-      description: "Enterprise-grade security platform with threat detection, real-time monitoring, and automated responses.",
-      tech: ["Python", "Machine Learning", "Elasticsearch", "Kafka"],
-      image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&h=600&fit=crop"
+      title: "Comprehensive Conference Management Solutions",
+      client: "NUC-LG",
+      category: "Web Development & AI",
+      description: "All-in-one platform for organizing academic conferences, managing submissions, and engaging participants. It faciictaes confrince organizers at eash step from call for papers to final proceedings..",
+      tech: ["Python", "TensorFlow", "React", "PostgreSQL"],
+      image: "https://j0vssbutor.ufs.sh/f/CFjtoIbksUoKqqHM9hu14OMSET3Ze0fQJAYbUWr6PVsKHl2N",
+      link: "https://cc.pak-school.com/"
     },
     {
-      title: "DevOps Automation Suite",
-      client: "Netflix",
-      category: "DevOps",
-      description: "Complete CI/CD pipeline automation reducing deployment time from hours to minutes.",
-      tech: ["Jenkins", "Docker", "Kubernetes", "AWS"],
-      image: "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=800&h=600&fit=crop"
+      title: "Audio Video Forensic Services",
+      client: "Government Agencies",
+      category: "Digital Forensics and Artificial Intelligence",
+      description: "AI-driven forensic software solution, designed to assist law enforcement agencies in analyzing and verifying digital multimedia evidence. The software integrates advanced modules for video, image, and audio forensics, enabling manipulation detection, compression and artefact analysis, camera and sensor fingerprinting, and voice comparison.",
+      tech: ["Python", "Tensor Flow", "Deep Learning"],
+      image: "https://j0vssbutor.ufs.sh/f/CFjtoIbksUoKVbjuw1VfbGK1tSwN2FrJ7HhTiq9C3QvzjAUe"
+    },
+    {
+      title: "OBE based Learning Managemnet System",
+      client: "Education Institutes",
+      category: "Web Development & AI",
+      description: "OBE-LMS is an easy-to-use LMS designed to support educational institutions worldwide in implementing OBE frameworks effectively. It ensures full compliance with global accreditation standards and accords. Easy management of courses, assessments, and outcome mapping while supporting continuous quality improvement processes.",
+      tech: ["JavaScript", "TensorFlow", "React", "PostgreSQL"],
+      image: "https://j0vssbutor.ufs.sh/f/CFjtoIbksUoKkaG0mfdFjAbfn2Jar9GWDUCc34wBVsZOTymL"
     }
   ];
 
